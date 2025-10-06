@@ -1,0 +1,4 @@
+FROM hf.co/CompendiumLabs/bge-base-en-v1.5-gguf
+
+PARAMETER num_ctx 2048
+TEMPLATE """{{ .Prompt }}"""
