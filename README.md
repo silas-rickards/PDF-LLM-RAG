@@ -5,7 +5,7 @@ This was mainly done for practice and exploring the wonderful capabilities of Cr
 
 I hope to improve the usability of this with a proper API, UI, and professional deployment. For now, this is my working prototype.
 
-You can add your own ollama models to test different embedding and language abilities.
+Don't forget to build the model using the docker file provided. Feel free to sub your own ollama models to test different embedding and language abilities.
 
 # Requirements
 * Crawl4AI
